@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fasthand&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+
+.astrumlogo {
+
+    height: 20px;
+    width: 22px;
+}
+
+
+.made { 
+    font-family: 'Righteous', sans-serif;
+    color: rgb(255, 0, 166);  
+
+
+}
+
+
+.madeby {
+    font-family: 'Dancing Script', cursive;
+font-weight: bolder;
+}
+
+

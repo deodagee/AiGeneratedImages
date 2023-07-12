@@ -1,0 +1,40 @@
+/* fonts.css */
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.pagefonts {
+  font-family: 'Righteous', sans-serif;
+}
+
+.component1_child{ 
+
+  height: 50vh;
+}
+
+
+.frontimage {
+  width:30vw;
+  height: auto;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  margin: 5%;
+  margin-right: 50px;
+}
+
+.wrapperxox{ 
+  align-items: center;
+  justify-content: center;
+}
+
+
+.upnext { 
+
+  margin-left: 10px;
+}
+
+.spacediv{
+margin-top: 500px;
+  margin-bottom: 500px;
+}
+
+
