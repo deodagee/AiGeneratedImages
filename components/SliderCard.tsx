@@ -29,9 +29,9 @@ function SliderCard({ data }: Props) {
         layoutId={data.img}
         alt="Transition Image"
         src={data.img}
-        className=" absolute h-full w-full  rounded-2xl  object-cover brightness-75 "
+        className=" absolute h-full w-full  rounded-2xl  object-cover brightness-50 "
       />
-      <motion.div className=" absolute z-10 flex h-full items-end p-4">
+      <motion.div className=" absolute z-10 flex h-full items-end p-5">
         <motion.div>
           <motion.div
             layout
