@@ -58,7 +58,7 @@ export default function Home() {
     <div className={styles.pagefonts}>
       <main
         key={"component1"}
-        className={`landscape:overflow-x-clip landscape:max-h-screen landscape:relative component1_child relative min-h-screen select-none overflow-y-clip text-white antialiased`}
+        className={`landscape:overflow-y-clip landscape:max-h-screen landscape:relative component1_child relative min-h-screen select-none overflow-y-clip text-white antialiased`}
       >
         <AnimatePresence>
           <BackgroundImage
