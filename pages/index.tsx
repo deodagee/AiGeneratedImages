@@ -54,6 +54,7 @@ export default function Home() {
   }, [currentSlideData]);
 
   return (
+    <div className="">
     <div className={styles.pagefonts}>
       <main
         key={"component1"}
@@ -73,7 +74,7 @@ export default function Home() {
             >
               <div
                 key={"element_Header_Child1"}
-                className="col-span-4 mb-3 flex h-full flex-1 flex-col justify-end px-5 md:mb-0 md:justify-center md:px-10"
+                className="col-span-4 mb-3 flex h-full flex-1 flex-col justify-end px-0 md:mb-0 md:justify-center md:px-10"
               >
                 
                 <img
@@ -90,9 +91,9 @@ export default function Home() {
               
 
               <div
+              
                 key={"element_Header_Slides"}
-                className="col-span-6 flex h-full flex-1 flex-col justify-start p-5 md:justify-center md:p-10 mb-9"
-              >
+                className="col-span-6 flex h-full flex-1 flex-col justify-start p-5 pb-20 md:justify-center md:p-5 mb-9 overflow-y-scroll"              >
               <div className={styles.upnext}> Up Next..</div>
 
                 <Slides data={data} />
@@ -114,6 +115,7 @@ export default function Home() {
 
       </main>
 
+    </div>
     </div>
   );
 }

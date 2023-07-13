@@ -1,5 +1,5 @@
 Hi, 
-thanks for checking it ou, I built it using the model below, feel free to experiment with the app. I only changed a few things to make sense with where the functioning of the app is concerned. It should work through an npm install. 
+thanks for checking my online app, I built it using the model below. Feel free to experiment with the app, change it according to your wishes. Read the Licence page for more details about free software reproduction.
 
 ayee
 

@@ -16,4 +16,4 @@ function Slides({ data }: Props) {
   );
 }
 
-export default Slides;
+export default Slides;  
