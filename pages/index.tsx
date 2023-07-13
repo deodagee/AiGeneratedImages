@@ -58,7 +58,7 @@ export default function Home() {
     <div className={styles.pagefonts}>
       <main
         key={"component1"}
-        className={`landscape:overflow-y-clip landscape:max-h-screen landscape:relative component1_child relative min-h-screen select-none overflow-y-clip text-white antialiased`}
+        className={`landscape:overflow-y-hidden landscape:max-h-screen landscape:relative component1_child relative min-h-screen select-none overflow-y-hidden text-white antialiased`}
       >
         <AnimatePresence>
           <BackgroundImage
@@ -70,7 +70,7 @@ export default function Home() {
 
             <div
               key={"element_Header_Wrapper"}
-              className=" landscape:overflow-y-scroll  landscape:overflow-x-clip landscape:pb-20 flex h-full w-full grid-cols-10 flex-col md:grid"
+              className=" landscape:overflow-y-scroll  landscape:overflow-x-hidden landscape:pb-20 flex h-full w-full grid-cols-10 flex-col md:grid"
             >
               <div
                 key={"element_Header_Child1"}
@@ -93,7 +93,7 @@ export default function Home() {
               <div
               
                 key={"element_Header_Slides"}
-                className="col-span-6 flex h-full flex-1 flex-col justify-start p-5 pb-20 md:justify-center md:p-5 mb-9 overflow-x-clip overflow-y-scroll"              >
+                className="col-span-6 flex h-full flex-1 flex-col justify-start p-5 pb-20 md:justify-center md:p-5 mb-9 overflow-x-hidden overflow-y-scroll"              >
               <div className={styles.upnext}> Up Next..</div>
 
                 <Slides data={data} />
