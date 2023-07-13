@@ -1,21 +1,15 @@
 Hi, 
-thanks for checking my online app, I built it using the model below. Feel free to experiment with the app, change it according to your wishes. Read the Licence page for more details about free software reproduction.
+thanks for checking my online app, I built it using the model below. Its composed of JavaScript, Tailwind, Framer-motion, inside NextJs. Feel free to experiment with the app, change it according to your wishes. Read the Licence page for more details about free software reproduction.
+View My Live Demo!: https://ai-generated-images-nine.vercel.app/
 
-ayee
+ayeee, lets get it 
 
 
 By Deo Singiza, a.k.a. Astrum Stellar
 
 -------------------------------------------------------------------------
 The original source: 
-
-Stunning animated slider website built using Next.js, Framer Motion, and Tailwind CSS.
-
-<img alt="Nextjs Animated Slider"  src="https://github.com/K-H-Rayhan/nextjs-animated-slider/assets/83538046/676e87e0-0988-4431-9c3d-354635faca93" width="100%" />
-
-## 🖥 Demo
-
-Check out a [live demo](https://nextjs-animated-slider.vercel.app/).
+Check out The original [live demo](https://nextjs-animated-slider.vercel.app/).
 
 ## 📦 Installation
 
